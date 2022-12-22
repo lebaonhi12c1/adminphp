@@ -275,3 +275,38 @@
     background: var(--dark);
     border-color: var(--primary);
 }
+.form_content{
+    margin: 10px 0;
+    display: none;
+    padding: 20px;
+    border: 1px solid #000;
+    border-radius: 2px;
+}
+.add_select_user{
+    width: 200px;
+    padding: 4px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-left: 10px;
+    
+}
+.form_primary{
+    margin: 10px 0;
+    display: none;
+    padding: 20px;
+    border: 1px solid #000;
+    border-radius: 2px;
+}
+.form_content_user{
+    display: none;
+}
+.add_category_inp{
+    padding: 2px;
+    height: 35px;
+    border-color: #31D2F2;
+    border-style: ridge;
+    border-radius: 5px;
+}
+.add_category_inp:focus-visible{
+    outline-color: #FFCA2C;
+}
